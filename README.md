@@ -9,4 +9,4 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=N1GHTCR4WL3RR&color=fca547&style=flat-square&label=Brimstone_bamfs" />
 
-<p align="center"><img src="https://64.media.tumblr.com/0a82cd69909fc51b74251975f519e069/5c37a6b6d41071de-66/s1280x1920/feadbc7b793a62103f780bb5129fc59dbf908d92.gifv">
+<p align="center"><img src="https://64.media.tumblr.com/0fdc0a3fef02baf5243f912ec07140dd/63d71ad0deef8a24-c1/s250x400/ffb02fcae2efe556b58002576d8ae100daf4cfc5.gifv">
